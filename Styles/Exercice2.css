@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  border: 1px solid green;
+  padding: 10px;
+}
+a:hover {
+  color: white;
+  background-color: green;
+}

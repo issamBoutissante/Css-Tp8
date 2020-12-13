@@ -1,0 +1,18 @@
+a {
+  display: block;
+}
+#a1:hover {
+  color: red;
+}
+#a2:hover {
+  font-size: 20px;
+}
+#a3:hover {
+  background-color: green;
+}
+#a4:hover {
+  font-family: sans-serif;
+}
+#a5:hover {
+  text-decoration: line-through;
+}
